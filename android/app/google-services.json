@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047624576626",
+    "firebase_url": "https://expenditurely.firebaseio.com",
+    "project_id": "expenditurely",
+    "storage_bucket": "expenditurely.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047624576626:android:1b8f290cce17f594815ceb",
+        "android_client_info": {
+          "package_name": "com.wave.expenditurely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047624576626-ngjj0oftp7104ks9t782bm440eo8ehk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlTeCpODyWc0RpPRNrJd5w99V3t1-PLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047624576626-ngjj0oftp7104ks9t782bm440eo8ehk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
