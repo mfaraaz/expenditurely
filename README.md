@@ -1,7 +1,6 @@
-# expenditurely
-
-A new Flutter application.
-
+# Expenditurely
+Description -
+<img src="images/Expenditurely.jpg">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
